@@ -5,4 +5,4 @@ class Producto:
 		self.__primera_necesidad = primera_necesidad
 	
 	def get_nombre():
-		
+		{ñdjf{ñsdv{ñ}}}
